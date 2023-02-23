@@ -13,4 +13,4 @@ To run the app follow the steps:
 3. Go to the project's directory
 4. Run ```flutter pub get```
 5. Initialize a local emulator of your preference
-6. Run ```flutter run´´´ 
+6. Run ```flutter run``` 
